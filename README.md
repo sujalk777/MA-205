@@ -5,8 +5,8 @@ This project explores the use of **Physics-Informed Neural Networks (PINNs)** to
 
 ## Objectives
 1. **Develop a Neural Network-based Framework**: Build a PINN model capable of solving PDEs.
-2. **Solve PDEs for Benchmark Problems**: Apply the method to test cases, such as the Burgers' equation, Schrödinger equation, and Navier-Stokes equations.
-3. **Analyze Performance**: Compare the accuracy and efficiency of the PINN framework against classical numerical methods.
+2. **Solve PDEs for Benchmark Problems**: Apply the method to test cases, such as the Burgers' equation, Schrödinger equation, Navier-Stokes equations,Kdv Equation, and calhan Hilliard Equation .
+3. **Analyze Performance**: Compare the accuracy and efficiency of the PINN framework against classical numerical methods
 4. **Provide Open-Source Code**: Share the implementation on GitHub for the community to use and build upon.
 
 ## Methodology
