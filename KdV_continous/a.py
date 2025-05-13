@@ -1,1 +1,2 @@
-
+def ff:
+  return p
